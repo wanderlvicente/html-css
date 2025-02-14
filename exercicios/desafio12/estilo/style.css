@@ -80,6 +80,7 @@ section#img2{
     background-image: url(../imagens/background002.jpg);
     background-size: cover;
     background-attachment: fixed;
+    background-position: center bottom;
 }
 footer{
     background-color: black;
